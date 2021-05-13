@@ -1,0 +1,86 @@
+{
+  "tracks": [
+    {
+      "artist": "Girls' Generation",
+      "album": "Oh! - The Second Album",
+      "track": "Gee"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "Oh! - The Second Album",
+      "track": "Oh!"
+    },
+    {
+      "artist": "Girls' Generation",
+      "album": "Oh! - The Second Album",
+      "track": "Genie"
+    },
+    {
+      "artist": "Little Mix",
+      "album": "Confetti (feat. Saweetie)",
+      "track": "Confetti (feat. Saweetie)"
+    }
+  ],
+  "albums": [
+  ],
+  "shows": [
+    {
+      "name": "Anything Goes with Emma Chamberlain",
+      "publisher": "Emma Chamberlain and Ramble"
+    },
+    {
+      "name": "Baby Steps",
+      "publisher": "Fulmer Media"
+    },
+    {
+      "name": "Burnout with Gabbie Hanna",
+      "publisher": "Gabbie Hanna"
+    },
+    {
+      "name": "Dear Hank & John",
+      "publisher": "Complexly"
+    },
+    {
+      "name": "Jenna & Julien Podcast",
+      "publisher": "Jenna & Julien Podcast"
+    },
+    {
+      "name": "Jenna & Julien Podcast",
+      "publisher": "Jenna & Julien Podcast"
+    },
+    {
+      "name": "Office Ladies",
+      "publisher": "Earwolf & Jenna Fischer and Angela Kinsey"
+    },
+    {
+      "name": "Psychobabble with Tyler Oakley & Korey Kuhl",
+      "publisher": "Tyler Oakley, Korey Kuhl, and Cadence13"
+    },
+    {
+      "name": "Sidenote by AsapSCIENCE",
+      "publisher": "AsapSCIENCE"
+    },
+    {
+      "name": "Talk To Me In Korean - Core Korean Grammar",
+      "publisher": "Talk To Me In Korean"
+    },
+    {
+      "name": "The Bald and the Beautiful with Trixie Mattel and Katya Zamo",
+      "publisher": "Studio71"
+    },
+    {
+      "name": "The Sip with Ryland Adams and Lizze Gordon",
+      "publisher": "Ryland Adams"
+    },
+    {
+      "name": "You Can Sit With Us",
+      "publisher": "The Try Guys & Ramble"
+    }
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "other": [
+  ]
+}
